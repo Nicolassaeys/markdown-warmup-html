@@ -1,0 +1,74 @@
+body
+/* Corps */
+{
+    background-image: url("https://images4.alphacoders.com/837/83706.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: bottom;
+}
+
+h1 
+/* Titre principal*/
+{
+    color : #092739;
+    text-align : center;
+    font-size: 50px;
+    font-family: 'Staatliches', cursive;    
+}
+
+h3
+/* Sous-titres */
+{
+    color : #134E70;
+    text-align : center;
+    font-size: 35px;
+    font-family: 'Raleway', sans-serif;
+}
+
+ul
+/* Liste de courses */
+{
+    color : #8B9BA4;
+    list-style-type: square ;
+    font-size: 25px;
+    list-style-position: inside;
+    padding-left: 600px;
+    font-family: 'Raleway', sans-serif;
+}
+
+ol
+/* Top 3 animes */
+{
+    color : #8B9BA4;
+    list-style-type: decimal;
+    font-size: 25px;
+    list-style-position: inside;
+    padding-left: 600px;
+    font-family: 'Raleway', sans-serif;
+}
+
+p
+/* Emojis */
+{
+    text-align: center;
+}
+
+a
+/* Lien Cameron's World */
+{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    padding-left: 600px;
+    text-shadow: darkslategrey;
+    color : #8B9BA4;
+    font-size: 20px;
+}
+
+img
+/* Images */
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
